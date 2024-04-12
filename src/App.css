@@ -1,0 +1,24 @@
+.contador-likes {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.contador-likes h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+.contador-likes button {
+  background-color: #4caf50; 
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin: 0 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.contador-likes button:hover {
+  background-color: #45a049; 
+}
